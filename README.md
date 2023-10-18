@@ -1,0 +1,2 @@
+# wp
+sitio wordpress estático
